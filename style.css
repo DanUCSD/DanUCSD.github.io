@@ -1,0 +1,15 @@
+body {
+    height: 100%;
+    color: #252525;
+    background-color: #eee;
+    line-height: 30px;
+    display: block;
+    font-family: Arial;
+    text-align: left;
+    margin: 50px;
+}
+
+img {
+    float: right;
+    border: 1px dotted black;
+}
